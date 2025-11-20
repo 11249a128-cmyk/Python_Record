@@ -1,4 +1,4 @@
-                                                                                   // 4. Binary to Decimal & Octal to Hexadecimal Conversion //
+                                                                                   // Binary to Decimal & Octal to Hexadecimal Conversion //
 
 ➡️ Aim:
       //To develop a Python program that converts a binary number to its decimal equivalent and an octal number to its hexadecimal equivalent// 
